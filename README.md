@@ -1,6 +1,6 @@
-# Resume2Interview — FastAPI Backend
+# Resume2Interview —
 
-A modular, production-ready FastAPI backend for the **Resume2Interview** Android app.
+A
 
 ---
 
